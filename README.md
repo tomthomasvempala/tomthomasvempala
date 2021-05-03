@@ -4,9 +4,19 @@
   I tell you the things idk
   </h>
   <li>
-HTML CSS
+HTML/CSS
+JavaScript
+Machine Learning
+Data Science
 </li>
   
+  The things I know
+<li>
+Flutter
+Something about Competitive Coding
+Shit that's all
+</li>
+
 
 
 <!--
