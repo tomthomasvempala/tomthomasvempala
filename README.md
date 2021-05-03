@@ -1,8 +1,12 @@
 ### Hi there 👋
 
 <h>
-  Idk Web Dev
+  I tell you the things idk
   </h>
+  <li>
+HTML CSS
+</li>
+  
 
 
 <!--
