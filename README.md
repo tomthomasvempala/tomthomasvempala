@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<h>
+<h2>
   I tell you the things idk
-  </h>
+  </h2>
   <li>
 HTML/CSS
   </li>
@@ -14,7 +14,7 @@ Machine Learning</li>
 Data Science
 </li>
   
-  The things I know
+  <h2>The things I know</h2>
 <li>
 Flutter
 </li>
