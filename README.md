@@ -5,15 +5,23 @@
   </h>
   <li>
 HTML/CSS
-JavaScript
-Machine Learning
+  </li>
+  <li>
+JavaScript</li>
+  <li>
+Machine Learning</li>
+  <li>
 Data Science
 </li>
   
   The things I know
 <li>
 Flutter
+</li>
+  <li>
 Something about Competitive Coding
+</li>
+  <li>
 Shit that's all
 </li>
 
